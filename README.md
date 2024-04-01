@@ -9,6 +9,7 @@ The problem involves using the Value Iteration algorithm to find the best strate
 ## POLICY ITERATION ALGORITHM
 Environment Setup:
 * The code begins by importing necessary libraries and setting up the Frozen Lake environment using Gym. It also initializes the initial state, goal state, and transition probabilities (P).
+
 Value Iteration Algorithm:
 * The core algorithm used in this code is Value Iteration. Value Initialization:
 
